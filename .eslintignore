@@ -1,0 +1,5 @@
+node_modules
+.vsCode
+coverage
+public
+*.scss
